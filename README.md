@@ -4,6 +4,7 @@
   * JDK 1.8.X
   * Maven 3.3.X
   * MongoDB
+  * Database
 
 ### install common-lib
   * go inside to the common-lib project folder
