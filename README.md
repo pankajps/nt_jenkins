@@ -7,6 +7,7 @@
   * Database
   * UNIX
   * Jenkins
+  * Maven
 
 ### install common-lib
   * go inside to the common-lib project folder
