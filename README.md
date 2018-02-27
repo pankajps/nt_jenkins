@@ -10,6 +10,7 @@
   * Maven
   * AWS
   * AZURE
+  * Google
 
 ### install common-lib
   * go inside to the common-lib project folder
