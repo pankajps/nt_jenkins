@@ -9,6 +9,7 @@
   * Jenkins
   * Maven
   * AWS
+  * AZURE
 
 ### install common-lib
   * go inside to the common-lib project folder
